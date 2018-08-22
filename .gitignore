@@ -43,3 +43,10 @@ flycheck_*.el
 
 # directory configuration
 .dir-locals.el
+
+# pyc files
+*.pyc
+
+# other files
+*.csv
+*.json
